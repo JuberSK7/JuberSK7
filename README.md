@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @ShaikhJuber
-- 👀 I’m interested in computetive programing languages
-- 🌱 I’m currently learning Front-end devloper
-- 💞️ I’m looking to collaborate on Youtube
-- 📫 How to reach me Shaikhj2001@gmail.com
+### Hello, I'am Shaikh Juber! 👋  
 
-<!---
-ShaikhJuber/ShaikhJuber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👋 Hi, I’m @𝗦𝗵𝗮𝗶𝗸𝗵𝗝𝘂𝗯𝗲𝗿
+- 🔭 I’m currently working on 𝗧𝗲𝗺𝗽𝗖𝗵𝗲𝗰𝗸 𝗔𝗽𝗽
+- 👀 I’m interested in computetive programing languages..
+- 🌱 I’m currently learning 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘃𝗹𝗼𝗽𝗲𝗿
+- 💞️ I’m looking to collaborate on 𝗤𝘂𝗶𝘇 𝗮𝗽𝗽
+- 💬 Ask me about React'js ,CSS, Bootstrap, JavaScript..
+- 👨‍💻 All of my projects are available at https://github.com/ShaikhJuber/ShaikhJuber
+- 📫 How to reach me Shaikhj2001@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: “Right now, I’m reading about programming”
+
