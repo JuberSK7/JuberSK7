@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Shaikh Juber</h1>
+<h1 align="center">Hello 👋, I'm Shaikh Zuber</h1>
 <h3 align="center">A Passionate Frontend Developer 💻</h3>
 
 <h4 align="center">I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people.
