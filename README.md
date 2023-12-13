@@ -16,9 +16,9 @@
 <h4 align="center">I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people.
          Learning how people hide things and where people are likely to look.</h4>
 
+<!--
 
-
-- 👋 Hi, I’m @𝗦𝗵𝗮𝗶𝗸𝗵𝗝𝘂𝗯𝗲𝗿
+- 👋 Hi, I’m @𝗦𝗵𝗮𝗶𝗸𝗵𝗝𝘂𝗯𝗲𝗿 
 - 🔭 I’m currently working on Trainee Engineer
 - 👀 I’m interested in #computetive programing languages..
 - 🌱 I’m currently learning Full Stack Technology
@@ -27,8 +27,9 @@
 - 📫 How to reach me Shaikhj2001@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: “Right now, I’m reading about programming”
+-->
 <br>
-
+<!--
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://github.com/ShaikhJuber/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="github.com/ShaikhJuber/" height="30" width="40" /></a>
@@ -36,6 +37,7 @@
 </p>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 <br>
+-->
 
 
 <!----------------------------------- Tech Stats Section ------------------------------------>
@@ -70,15 +72,22 @@
 ## 📈 GitHub Stats
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaikhJuber&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shaikhjuber" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhJuber&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="shaikhjuber" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuberSK7&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shaikhjuber" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuberSK7&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="shaikhjuber" height="139" />
 </p>
 <br>
 
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/shaikhzubeb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shaikh" /></a></p><br><br>
-[profile-visitors](https://komarev.com/ghpvc/?username=nihaladoni)
+
+<h3 align="left"></h3>
+
+![profile-visitors](https://komarev.com/ghpvc/?username=JuberSK7)
+
+
+
+
 
 
 
