@@ -11,7 +11,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 
-<h3 align="center">A Passionate Frontend Developer 💻</h3>
+<h3 align="center">A Passionate MERN STACK Developer 💻</h3>
 
 <h4 align="center">I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people.
          Learning how people hide things and where people are likely to look.</h4>
@@ -19,12 +19,12 @@
 <!--
 
 - 👋 Hi, I’m @𝗦𝗵𝗮𝗶𝗸𝗵𝗝𝘂𝗯𝗲𝗿 
-- 🔭 I’m currently working on Trainee Engineer
+- 🔭 I’m currently working on MERN STACK Engineer
 - 👀 I’m interested in #computetive programing languages..
 - 🌱 I’m currently learning Full Stack Technology
-- 💬 Ask me about Html, Css, JavaScript, React'js, Typescript etc
+- 💬 Ask me about HTML, CSS, JavaScript,Typescript, React Js, Redux, Node Js, Express Js, MongoDB  etc
 - 👨‍💻 All of my Works are available at https://github.com/ShaikhJuber/ShaikhJuber
-- 📫 How to reach me Shaikhj2001@gmail.com
+- 📫 How to reach me shaikhj2001@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: “Right now, I’m reading about programming”
 -->
